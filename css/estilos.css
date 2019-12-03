@@ -60,3 +60,17 @@ section .contenido {
 section .contenido p {
   padding:30px;
 }
+.biography {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  flex-direction: row;
+}
+.biography img {
+  padding: 5%;
+  width: 40%;
+}
+.biography p {
+  width: 40%;
+  padding: 5%;
+}
